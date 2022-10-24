@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)

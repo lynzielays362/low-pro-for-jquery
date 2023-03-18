@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)

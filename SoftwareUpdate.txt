@@ -1,1 +1,1 @@
-add yolov10
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)

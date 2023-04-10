@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+YAML reformat (#7669)

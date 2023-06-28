@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)

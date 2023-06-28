@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)

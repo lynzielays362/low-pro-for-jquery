@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)

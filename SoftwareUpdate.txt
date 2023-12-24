@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add YOLOv8 LibTorch C++ inference example (#7090)

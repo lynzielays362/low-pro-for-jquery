@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add plot_images conf_thresh parameter (#8446)

@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)

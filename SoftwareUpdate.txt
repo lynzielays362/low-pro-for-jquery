@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Elaborate Train and Predict mode docs arguments (#8137)

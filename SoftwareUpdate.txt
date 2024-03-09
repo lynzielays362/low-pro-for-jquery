@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+Update Discord and Contributing Guide URLs (#9270)
